@@ -12,6 +12,8 @@ public class esPalindromo {
 
 		/* Primera modificacion (local) Tristan Rollon */
 
+	        /* Segunda modificacion (GitHub) Tristan Rollon */
+	
 	   public static void main(String[] args) {
 	       String s1 = "level";
 	       String s2 = "cool";
