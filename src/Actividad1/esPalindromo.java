@@ -10,6 +10,8 @@ public class esPalindromo {
 	       return true;
 	   }
 
+		/* Primera modificacion (local) Tristan Rollon */
+
 	   public static void main(String[] args) {
 	       String s1 = "level";
 	       String s2 = "cool";
